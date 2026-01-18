@@ -23,7 +23,7 @@
 </p>
 <p>
 <asp:Label ID="Label4" runat="server">Will you attend?</asp:Label>
-<select id="Select1" name="WillAttend" runat="server">
+<select id="Select1" name="WillAttend">
 <option value="">Choose an option</option>
 <option value="true">Yes, I'll be there</option>
 <option value="false">No, I can't come</option>
