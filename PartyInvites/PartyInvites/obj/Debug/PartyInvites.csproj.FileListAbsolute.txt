@@ -1,0 +1,4 @@
+C:\Users\hic\Documents\GitHub\PartyInvites\PartyInvites\PartyInvites\bin\PartyInvites.dll
+C:\Users\hic\Documents\GitHub\PartyInvites\PartyInvites\PartyInvites\bin\PartyInvites.pdb
+C:\Users\hic\Documents\GitHub\PartyInvites\PartyInvites\PartyInvites\obj\Debug\PartyInvites.dll
+C:\Users\hic\Documents\GitHub\PartyInvites\PartyInvites\PartyInvites\obj\Debug\PartyInvites.pdb
