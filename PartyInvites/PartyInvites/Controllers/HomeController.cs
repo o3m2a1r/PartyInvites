@@ -15,7 +15,7 @@ namespace PartyInvites.Controllers
         {
             return View();
         }
-        public ViewResult RspvForm()
+        public ViewResult RsvpForm()
         {
             return View();
         }

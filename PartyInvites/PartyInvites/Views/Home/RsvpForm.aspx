@@ -5,11 +5,11 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width" />
-    <title>RspvForm</title>
+    <title>RsvpForm</title>
 </head>
 <body>
     <div>
- This is the RsvpForm.cshtml View
+ This is the RsvpForm View
     </div>
 </body>
 </html>
