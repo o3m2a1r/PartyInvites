@@ -10,9 +10,13 @@
 <body>
  <p>
  <h1>Thank you, <%= Model.Name %>!</h1>
- <h2><%= Model.Email%> </h2>
- <h2><%= Model.Phone%> </h2>
- <h2><%= Model.WillAttend%> </h2>
+ <%if (Model.WillAttend == true) %>
+ <% { %>
+ It's great that you're coming. The drinks are already in the fridge!
+ <% } else %>
+ <% { %>
+ Sorry to hear that you can't make it, but thanks for letting us know.
+ <% } %>
  </p>
 </body>
 </html>
