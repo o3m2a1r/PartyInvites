@@ -18,5 +18,6 @@
  Sorry to hear that you can't make it, but thanks for letting us know.
  <% } %>
  </p>
+ <p>Click <a href="ListResponses">here</a> to see who is coming.</p>
 </body>
 </html>
