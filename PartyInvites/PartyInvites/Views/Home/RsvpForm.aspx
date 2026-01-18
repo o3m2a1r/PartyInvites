@@ -8,8 +8,12 @@
     <title>RsvpForm</title>
 </head>
 <body>
-    <div>
- This is the RsvpForm View
-    </div>
+<form action="RsvpForm" method="post">
+<p>
+<asp:Label ID="Label1" runat="server">Your name:</asp:Label>
+<input type="text" name="Name" />
+</p>
+<button type="submit">Submit RSVP</button>
+</form>
 </body>
 </html>
