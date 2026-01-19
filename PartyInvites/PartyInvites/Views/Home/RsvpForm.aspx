@@ -8,7 +8,7 @@
     <title>RsvpForm</title>
 </head>
 <body>
-<form action="RsvpForm" method="post">
+<form action="RsvpForm" method="post" runat="server">
 <p>
 <asp:Label ID="Label1" runat="server">Your name:</asp:Label>
 <input type="text" name="Name" />
