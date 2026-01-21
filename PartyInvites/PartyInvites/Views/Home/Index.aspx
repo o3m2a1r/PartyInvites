@@ -8,11 +8,10 @@
  <link rel="stylesheet" href="/content/bootstrap.css" />
 </head>
 <body>
- <div>
- Hello World
-<p>We're going to have an exciting party.<br />
-</p>
-<a href="Home/RsvpForm">RSVP Now</a>
+ <div class="text-center">
+<h3>We're going to have an exciting party!</h3>
+<h4>And you are invited</h4>
+<a class="btn btn-primary" href="Home/RsvpForm">RSVP Now</a>
  </div>
 </body>
 </html>
