@@ -5,6 +5,7 @@
 <head>
  <meta name="viewport" content="width=device-width" />
  <title>Index</title>
+ <link rel="stylesheet" href="/content/bootstrap.css" />
 </head>
 <body>
  <div>
