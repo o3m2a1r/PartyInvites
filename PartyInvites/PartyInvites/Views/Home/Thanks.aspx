@@ -6,8 +6,9 @@
 <head>
  <meta name="viewport" content="width=device-width" />
  <title>Thanks</title>
+ <link rel="stylesheet" href="/content/bootstrap.css" />
 </head>
-<body>
+<body class="text-center">
  <p>
  <h1>Thank you, <%= Model.Name %>!</h1>
  <%if (Model.WillAttend == true) %>
@@ -18,6 +19,6 @@
  Sorry to hear that you can't make it, but thanks for letting us know.
  <% } %>
  </p>
- <p>Click <a href="ListResponses">here</a> to see who is coming.</p>
+ <p>Click <a class="nav-link" href="ListResponses">here</a> to see who is coming.</p>
 </body>
 </html>
