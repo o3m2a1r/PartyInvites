@@ -5,11 +5,13 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>Responses</title>
+    <link rel="stylesheet" href="/content/bootstrap.css" />
 </head>
 <body>
+<div class="panel-body">
     <h2>
         Here is the list of people attending the party</h2>
-    <table>
+    <table class="table table-sm table-striped table-bordered">
         <thead>
             <tr>
                 <th>
@@ -40,5 +42,6 @@
             <% } %>
         </tbody>
     </table>
+    </div>
 </body>
 </html>
